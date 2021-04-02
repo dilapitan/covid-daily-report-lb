@@ -1,1 +1,0 @@
-# covid-daily-report-lb
